@@ -1,0 +1,4 @@
+Filter Fields:
+http://metabase.simulative.ru/public/dashboard/b1d8565c-0c8f-4c61-b083-e80e20e24d2f
+RFM:
+http://metabase.simulative.ru/public/dashboard/e2745bdf-6f26-44e3-a1dd-f167d732f6fd
